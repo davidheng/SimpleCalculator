@@ -9,7 +9,7 @@
     <string name="result_name">SimpleCalculator</string>
 
     <!-- Main.xml Strings -->
-    <string name="enter_bill">Enter the total bill amount:</string>
+    <string name="enter_bill">Enter the bill amount:</string>
     <string name="select_tip">Select a tip amount</string>
     <string name="button_10">10 Percent</string>
     <string name="button_15">15 Percent</string>
